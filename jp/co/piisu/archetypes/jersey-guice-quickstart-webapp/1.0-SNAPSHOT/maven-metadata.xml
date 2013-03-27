@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>jp.co.piisu.archetypes</groupId>
+  <artifactId>jersey-guice-quickstart-webapp</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130327.014949</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130327014949</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20130327.014949-1</value>
+        <updated>20130327014949</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20130327.014949-1</value>
+        <updated>20130327014949</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

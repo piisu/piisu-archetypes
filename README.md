@@ -10,3 +10,6 @@ jersey-guice-quickstart-webapp
         -DarchetypeGroupId=jp.co.piisu.archetypes \
         -DarchetypeArtifactId=jersey-guice-quickstart-webapp \
         -DarchetypeVersion=1.0-SNAPSHOT
+
+jersey-guice-jpa-quickstart-webapp
+==================================

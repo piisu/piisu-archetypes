@@ -1,0 +1,14 @@
+<archetype>
+	<id>jersey-guice-quickstart-webapp</id>
+	<sources>
+		<source>src/main/java/listener/MyGuiceServletContextListener.java
+		</source>
+		<source>src/main/java/MyResource.java</source>
+	</sources>
+	<resources>
+		<resource>src/main/webapp/index.html</resource>
+		<resource>src/main/webapp/WEB-INF/web.xml</resource>
+	</resources>
+	<testSources>
+	</testSources>
+</archetype>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ryopei.archetypes</groupId>
+  <artifactId>jersey-guice-quickstart-webapp</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130326112037</lastUpdated>
+  </versioning>
+</metadata>

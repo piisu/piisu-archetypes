@@ -4,8 +4,9 @@ piisu-archetypes is useful maven archetypes.
 
 jersey-guice-quickstart-webapp
 ==============================
+
     mvn archetype:generate \
-        -DarchetypeRepository=https://raw.github.com/ryopei/jersey-guice-quickstart-webapp/mvn-repo/ \
-        -DarchetypeGroupId=com.ryopei.archetypes \
+        -DarchetypeRepository=https://raw.github.com/piisu/piisu-archetypes/mvn-repo \
+        -DarchetypeGroupId=jp.co.piisu.archetypes \
         -DarchetypeArtifactId=jersey-guice-quickstart-webapp \
-        -DarchetypeVersion=0.1-SNAPSHOT
+        -DarchetypeVersion=1.0-SNAPSHOT
